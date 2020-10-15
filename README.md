@@ -1,0 +1,2 @@
+# ProgrammingForCompetition
+競技用プログラミンの練習問題や過去問題のコードをあげるリポジトリです。
